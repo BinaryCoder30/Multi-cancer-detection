@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Mac system files
+__MACOSX/
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model weights
+*.pth
+
+# Dataset folders
+*photos/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+best_model/
+best_model_lung/
+*.pth
